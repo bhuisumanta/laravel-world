@@ -1,6 +1,6 @@
 # Laravel World Database
 
-This package focused on World Countries, Regions, and Cities database with locale support for Laravel.
+This package focused on World Countries, Regions, and Cities database with locale support for Laravel/Lumen.
 
 ## Conceptions
 
